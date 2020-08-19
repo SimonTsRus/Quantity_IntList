@@ -1,0 +1,2 @@
+D:\TEST_COM_PROG_SIMON\IntList_Quantity_SI\Debug\IntList_Quantity_SI.exe
+D:\TEST_COM_PROG_SIMON\IntList_Quantity_SI\Debug\IntList_Quantity_SI.pdb
